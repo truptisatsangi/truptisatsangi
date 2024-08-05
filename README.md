@@ -25,7 +25,7 @@ If you are equally passionate about blockchain and DeFi, I would be excited to c
 - Node
 - React
 - Openzepplin Contracts
--
+
 ## DeFi Expertise
 
 - Lending and Borrowing
