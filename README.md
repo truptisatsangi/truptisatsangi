@@ -43,9 +43,9 @@ Reach out for collaboration opportunities or to discuss any projects!
 
 Email: truptisatsangi18@gmail.com
 
-
-[![Trupti's GitHub stats](https://github-readme-stats.vercel.app/api?username=truptisatsangi)](https://github.com/truptisatsangi/github-readme-stats)
 <!--
+[![Trupti's GitHub stats](https://github-readme-stats.vercel.app/api?username=truptisatsangi)](https://github.com/truptisatsangi/github-readme-stats)
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
