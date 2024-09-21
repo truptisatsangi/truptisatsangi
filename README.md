@@ -42,6 +42,7 @@ If you are equally passionate about blockchain and DeFi, I would be excited to c
 Reach out for collaboration opportunities or to discuss any projects!
 
 Email: truptisatsangi18@gmail.com
+Linkedin: https://www.linkedin.com/in/trupti-satsangi-528390183/
 
 <!--
 [![Trupti's GitHub stats](https://github-readme-stats.vercel.app/api?username=truptisatsangi)](https://github.com/truptisatsangi/github-readme-stats)
