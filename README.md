@@ -37,6 +37,7 @@ If you are equally passionate about blockchain and DeFi, I would be excited to c
 - DAO
 - Automated Market Makers (AMMs)
 - Pool Tokenization
+- Bridges
 
 ## Let's Connect
 Reach out for collaboration opportunities or to discuss any projects!
