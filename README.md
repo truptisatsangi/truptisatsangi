@@ -32,8 +32,7 @@ If you are equally passionate about blockchain and DeFi, I would be excited to c
 - Governance tokens
 - Decentralized Exchanges (DEXs)
 - Oracle Networks
-- Layer2
-- Cross chain bridges
+- Layer
 - DAO
 - Automated Market Makers (AMMs)
 - Pool Tokenization
@@ -41,10 +40,6 @@ If you are equally passionate about blockchain and DeFi, I would be excited to c
 
 ## Let's Connect
 Reach out for collaboration opportunities or to discuss any projects!
-
-Email: truptisatsangi18@gmail.com
-Linkedin: https://www.linkedin.com/in/trupti-satsangi-528390183/
-
 <!--
 [![Trupti's GitHub stats](https://github-readme-stats.vercel.app/api?username=truptisatsangi)](https://github.com/truptisatsangi/github-readme-stats)
 
