@@ -32,7 +32,7 @@ If you are equally passionate about blockchain and DeFi, I would be excited to c
 - Governance tokens
 - Decentralized Exchanges (DEXs)
 - Oracle Networks
-- Layer
+- Layer 2
 - DAO
 - Automated Market Makers (AMMs)
 - Pool Tokenization
