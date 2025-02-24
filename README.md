@@ -18,8 +18,9 @@ If you are equally passionate about blockchain and DeFi, I would be excited to c
 - Hardhat
 - Javascript
 - Ether.js
+- Golang
 - Mocha
--  Chai
+- Chai
 - Problem Solving
 - Data Structure and Algorithms
 - Node
