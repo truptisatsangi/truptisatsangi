@@ -24,7 +24,6 @@ If you are equally passionate about blockchain and DeFi, I would be excited to c
 - Problem Solving
 - Data Structure and Algorithms
 - Node
-- React
 - Openzepplin Contracts
 
 ## DeFi Expertise
